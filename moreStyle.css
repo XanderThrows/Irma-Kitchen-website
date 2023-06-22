@@ -482,6 +482,24 @@
     }
 }*/
 
+.services {
+    background: rgba(0, 0, 0, 0.829);
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px; /* Add padding for better spacing */
+    box-sizing: border-box; /* Include padding within the height calculation */
+    overflow: auto; /* Enable vertical scrolling if the content overflows */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+    .services {
+        align-items: flex-start; /* Adjust alignment for mobile screens */
+        padding: 20px; /* Add padding for better spacing */
+    }
+}
+
 .footer__container{
     background-color: #141414;
     padding: 5rem 0;
