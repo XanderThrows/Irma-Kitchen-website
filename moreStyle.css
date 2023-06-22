@@ -354,7 +354,14 @@
     /*display: flex;*/
     flex-direction: column;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
+}
+
+@media (max-width: 600px) {
+    .services {
+        align-items: flex-start; /* Adjust alignment for mobile screens */
+        padding: 20px; /* Add padding for better spacing */
+    }
 }
 
 /*.services{
