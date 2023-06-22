@@ -618,7 +618,7 @@
 .location h1{
     color: rgb(22, 233, 22);
     margin-bottom: 2rem;
-    margin-top: 5rem;  /*changed 06/22*/
+    /*margin-top: 5rem;  /*changed 06/22*/*/
 }
 
 @media screen and (max-width: 960px){
