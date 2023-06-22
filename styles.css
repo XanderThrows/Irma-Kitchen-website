@@ -612,7 +612,7 @@
     align-items: center;
     /*height: 100px;*/
     min-height: 100vh; /*changed 06/22*/
-    /*margin-top: 10rem; /*changed 06/22*/*/
+    margin-top: 0.5rem; /*changed 06/22*/
 }
 
 .location h1{
