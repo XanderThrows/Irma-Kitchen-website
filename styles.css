@@ -610,7 +610,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    /*height: 100px;*/
     min-height: 100vh; /*changed 06/22*/
     margin-top: 10rem; /*changed 06/22*/
 }
