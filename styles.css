@@ -635,7 +635,7 @@
 
 @media screen and (max-width: 480px){
     .location{
-        height: 700px  
+        min-height: 1600px  
     }
 
     .location h1{
