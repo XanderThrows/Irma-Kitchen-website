@@ -364,7 +364,8 @@
         #2088b8 0%, #20d0d6 100%
     );
     background-size: 100%;
-    margin-bottom: 0.5;
+   /* margin-bottom: 0.5;*/
+    margin-top: 5 rem;
     font-size: 2.5rem;
     -webkit-background-clip: text;
     -moz-background-clip: text;
