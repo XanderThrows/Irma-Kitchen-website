@@ -440,7 +440,7 @@
 
 @media screen and (max-width: 960px){
     .services{
-        height: 1600px
+        height: 700px
     }
 
     .services h1{
@@ -460,6 +460,7 @@
 
     .services h1{
         font-size: 1.2rem;
+        margin-top: 5 rem;
     }
 
     .services h2{
